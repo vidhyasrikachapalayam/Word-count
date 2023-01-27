@@ -40,7 +40,7 @@ num_words += len(words)
 print("Number of words: ", num_words)
 
 ### OUTPUT:
-![word.png](./word%20count.png)
+![word count](https://user-images.githubusercontent.com/119477817/215099841-49e1a536-717a-4da5-9e2f-8408c0b46017.png)
 
 
 ## RESULT:
